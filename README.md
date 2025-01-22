@@ -1,4 +1,4 @@
-# todo list with pure js
+# Todo list with pure js
 Simple app to create todo list with pure javascript.
 ## Features:
 - Create task;
